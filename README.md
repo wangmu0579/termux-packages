@@ -1,3 +1,5 @@
+1) Change for spport GDB with Python build(--with-python)
+
 Termux packages
 ===============
 [![Build Status](https://travis-ci.org/termux/termux-packages.svg?branch=master)](https://travis-ci.org/termux/termux-packages)
